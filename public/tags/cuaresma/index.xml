@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cuaresma on My New Hugo Site</title>
+    <link>https://example.org/tags/cuaresma/</link>
+    <description>Recent content in Cuaresma on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 09 Mar 2020 20:46:16 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/cuaresma/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Miércoles Santo</title>
+      <link>https://example.org/miercoles-santo/</link>
+      <pubDate>Mon, 09 Mar 2020 20:46:16 +0000</pubDate>
+      <guid>https://example.org/miercoles-santo/</guid>
+      <description>Marca el final de la Cuaresma y el comienzo de la Pascua, dando paso a los días de los principales cultos de Jueves y Viernes Santo.
+Cristo les dice: “Sabéis que de aquí a dos días será la Pascua, y el Hijo del Hombre será entregado para ser crucificado”(Mt).
+El miércoles santo Jesús no acudió al Templo. Permaneció en Betania en una vigilia de oración. Todo lo que había de decir, lo ha dicho.</description>
+    </item>
+    <item>
+      <title>La Cuaresma del año 2020</title>
+      <link>https://example.org/cuaresma-2020/</link>
+      <pubDate>Sat, 08 Feb 2020 16:26:11 +0000</pubDate>
+      <guid>https://example.org/cuaresma-2020/</guid>
+      <description>La Cuaresma del año 2020 tiene lugar del 26 de Febrero al 9 de Abril. La Cuaresma tiene cinco domingos más el Domingo de Ramos, en cuyas lecturas los temas de la conversión, el pecado, la penitencia y el
+perdón, son dominantes. La Cuaresma es el tiempo litúrgico de conversión, que marca la Iglesia para prepararnos a la gran fiesta de la Pascua. Es tiempo para arrepentirnos de nuestros pecados y de cambiar algo de nosotros para ser mejores y poder vivir más cerca de Cristo.</description>
+    </item>
+    <item>
+      <title>Miércoles de Ceniza</title>
+      <link>https://example.org/miercoles-de-ceniza-febrero2020/</link>
+      <pubDate>Sat, 08 Feb 2020 16:15:27 +0000</pubDate>
+      <guid>https://example.org/miercoles-de-ceniza-febrero2020/</guid>
+      <description>Lo que debes saber sobre el Miércoles de Ceniza La fecha del Miércoles de Ceniza es el 26 de febrero de 2020. Para los católicos es un día de ayuno, abstinencia, oración y confesión. En las iglesias durante la misa se realiza la tradicional imposición de ceniza a los fieles. Marca el inicio a la “Cuaresma” (40 días de preparación para la Pascua), que comienza el Miércoles de Ceniza y termina en la tarde del Jueves Santo.</description>
+    </item>
+  </channel>
+</rss>

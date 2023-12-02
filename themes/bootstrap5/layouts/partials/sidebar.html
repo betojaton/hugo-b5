@@ -1,0 +1,38 @@
+<div class="card text-center pt-0 p-3 rounded-top-0 mb-5">
+	<img src="https://mariadelasantafe.org.ar/wp-content/uploads/2023/05/manos-rezando.png" class="card-img-top" alt="Manos con Rosario">
+	<div class="card-body">
+		Último día del mes inicia la novena a “María de la Santa Fe”, por las intenciones dadas por la Virgen durante todos estos años, finalizando el <strong>día 8 del mes siguiente</strong>.
+		Invita los días:  <strong>Lunes, Jueves y Sábados a rezar el Santo Rosario. Invierno:</strong> 16:00 h (Desde el 31 Marzo al 30 Octubre)
+		<strong>Verano:</strong> 18:00 h (Desde el 31 Octubre al 30 de Marzo).
+		<strong>Los días 8 de cada mes, se reza a las 16:00 h</strong>
+	</div>
+</div>
+
+<ul>
+	{{ if .Site.Taxonomies.tags }}
+	<p>¡Las etiquetas están presentes!</p>
+	{{ range .Site.Taxonomies.tags }}
+	<li><a href='{{ "/tags/" | relLangURL }}{{ .Page.URL }}'>{{ .Page.Title }}</a></li>
+	{{ end }}
+	{{ else }}
+	<p>No hay etiquetas presentes.</p>
+	{{ end }}
+</ul>
+
+<!-- 
+{{ $s := site.Params }}
+{{- $tagsLimit := (default 30 $s.numberOfTagsShown) }}
+{{- range $key, $value := .Site.Taxonomies }}
+{{- if gt $value 0 }}
+<h4>{{ $key }}</h4>
+<nav class="sidebar-links">
+	{{- $slicedTags := ($value.ByCount | first $tagsLimit) }}
+	{{- range $slicedTags }}
+	<a href='{{ absLangURL $key }}/{{ (replace .Name "#" "%23") | urlize }}/' class="btn" title="{{ .Name }}">
+		{{ upper .Name }}
+	</a>
+	<span class="btn-tally">{{ .Count }}</span>
+	{{ end}}
+</nav>
+{{ end }}
+{{ end }} -->

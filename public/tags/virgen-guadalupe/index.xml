@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virgen Guadalupe on My New Hugo Site</title>
+    <link>https://example.org/tags/virgen-guadalupe/</link>
+    <description>Recent content in Virgen Guadalupe on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 21 Dec 2020 21:32:14 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/virgen-guadalupe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¡Feliz Fiesta de la Virgen de Guadalupe!</title>
+      <link>https://example.org/feliz-fiesta-virgen-guadalupe-2020/</link>
+      <pubDate>Mon, 21 Dec 2020 21:32:14 +0000</pubDate>
+      <guid>https://example.org/feliz-fiesta-virgen-guadalupe-2020/</guid>
+      <description>“No se entristezca tu corazón… ¿Acaso no estoy yo aquí, que soy tu Madre?”, le dijo la Virgen de Guadalupe al afligido Juan Diego un 12 de diciembre de 1531.
+Ella, la Emperatriz de América y Patrona de México, quiso dejar su imagen desde ese día en una sencilla “tilma” como señal del Amor de Dios para creyentes y no creyentes.</description>
+    </item>
+  </channel>
+</rss>

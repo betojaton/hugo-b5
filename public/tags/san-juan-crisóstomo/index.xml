@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San Juan Crisóstomo on My New Hugo Site</title>
+    <link>https://example.org/tags/san-juan-cris%C3%B3stomo/</link>
+    <description>Recent content in San Juan Crisóstomo on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 05 Jan 2020 15:59:07 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/san-juan-cris%C3%B3stomo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Evangelio del día</title>
+      <link>https://example.org/evangelio-del-dia/</link>
+      <pubDate>Sun, 05 Jan 2020 15:59:07 +0000</pubDate>
+      <guid>https://example.org/evangelio-del-dia/</guid>
+      <description>Evangelio según San Marcos 6,34-44. Al desembarcar, Jesús vio una gran muchedumbre y se compadeció de ella, porque eran como ovejas sin pastor, y estuvo enseñándoles largo rato.
+Como se había hecho tarde, sus discípulos se acercaron y le dijeron:
+“Este es un lugar desierto, y ya es muy tarde.Despide a la gente, para que vaya a las poblaciones cercanas a comprar algo para comer”.
+El respondió:
+“Denles de comer ustedes mismos”.</description>
+    </item>
+  </channel>
+</rss>

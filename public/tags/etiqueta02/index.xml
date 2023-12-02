@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>etiqueta02 on My New Hugo Site</title>
+    <link>https://example.org/tags/etiqueta02/</link>
+    <description>Recent content in etiqueta02 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 30 Nov 2023 17:24:00 -0300</lastBuildDate>
+    <atom:link href="https://example.org/tags/etiqueta02/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://example.org/posts/first-post/</link>
+      <pubDate>Thu, 30 Nov 2023 17:24:00 -0300</pubDate>
+      <guid>https://example.org/posts/first-post/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam. Sed nisi. Nulla quis sem at nibh elementum imperdiet. Duis sagittis ipsum. Praesent mauris. Fusce nec tellus sed augue semper porta. Mauris massa. Vestibulum lacinia arcu eget nulla. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur sodales ligula in libero. Sed dignissim lacinia nunc.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.</description>
+    </item>
+  </channel>
+</rss>

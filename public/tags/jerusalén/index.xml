@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jerusalén on My New Hugo Site</title>
+    <link>https://example.org/tags/jerusal%C3%A9n/</link>
+    <description>Recent content in Jerusalén on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 09 Mar 2020 20:41:13 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/jerusal%C3%A9n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Martes Santo</title>
+      <link>https://example.org/martes-santo/</link>
+      <pubDate>Mon, 09 Mar 2020 20:41:13 +0000</pubDate>
+      <guid>https://example.org/martes-santo/</guid>
+      <description>La Pasión de Jesús. El martes acude al Templo por el camino tantas veces recorrido. El día de las grandes controversias. La noche del lunes fue como la del domingo: enseñanzas a los discípulos y mucha oración. Jesús está en máxima tensión. El ambiente de paz de Betania ayuda a relajar los espíritus, pero Jesús no cede en su lucha y necesita rezar.
+El martes acude al Templo por el camino tantas veces recorrido.</description>
+    </item>
+    <item>
+      <title>Domingo de Ramos</title>
+      <link>https://example.org/domingo-de-ramos-2020/</link>
+      <pubDate>Mon, 09 Mar 2020 20:32:09 +0000</pubDate>
+      <guid>https://example.org/domingo-de-ramos-2020/</guid>
+      <description>También es denominado “Domingo de Pasión”, es el primer día de la Semana Santa. es una fecha que cambia todos los años.
+Marca además el comienzo de la Semana Santa, un período donde se conmemoran la Pasión, Muerte y Resurrección de Jesús.
+En este día se recuerda a Jesucristo cuando realizó la entrada triunfal a Jerusalén.
+Fue alabado por una multitud que lo aclamaba como Rey con cantos y palmas.</description>
+    </item>
+    <item>
+      <title>Fiesta de la Presentación del Señor</title>
+      <link>https://example.org/fiesta-presentacion-senor-3-2/</link>
+      <pubDate>Sun, 05 Jan 2020 16:18:04 +0000</pubDate>
+      <guid>https://example.org/fiesta-presentacion-senor-3-2/</guid>
+      <description>Para cumplir la ley, María fue al Templo de Jerusalén, a los cuarenta días del nacimiento de JesúsEsta fiesta ya se celebraba en Jerusalén en el siglo IV.
+La festividad de hoy, de la que tenemos el primer testimonio en el siglo IV en Jerusalén, se llamaba hasta la última reforma del calendario, fiesta de la Purificación de la Virgen María, en recuerdo del episodio de la Sagrada Familia, que nos narra San Lucas en el capitulo 2 de su Evangelio.</description>
+    </item>
+    <item>
+      <title>Fiesta de la Presentación del Señor</title>
+      <link>https://example.org/fiesta-presentacion-senor-3/</link>
+      <pubDate>Sun, 05 Jan 2020 16:18:04 +0000</pubDate>
+      <guid>https://example.org/fiesta-presentacion-senor-3/</guid>
+      <description>Para cumplir la ley, María fue al Templo de Jerusalén, a los cuarenta días del nacimiento de JesúsEsta fiesta ya se celebraba en Jerusalén en el siglo IV.
+La festividad de hoy, de la que tenemos el primer testimonio en el siglo IV en Jerusalén, se llamaba hasta la última reforma del calendario, fiesta de la Purificación de la Virgen María, en recuerdo del episodio de la Sagrada Familia, que nos narra San Lucas en el capitulo 2 de su Evangelio.</description>
+    </item>
+  </channel>
+</rss>

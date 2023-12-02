@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San jua Diego on My New Hugo Site</title>
+    <link>https://example.org/tags/san-jua-diego/</link>
+    <description>Recent content in San jua Diego on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 21 Dec 2020 21:27:43 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/san-jua-diego/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>San Juan Diego</title>
+      <link>https://example.org/san-juan-diego/</link>
+      <pubDate>Mon, 21 Dec 2020 21:27:43 +0000</pubDate>
+      <guid>https://example.org/san-juan-diego/</guid>
+      <description>El 9 de diciembre de 1531 se le apareció, en el cerro del Tepeyac, la Virgen María, quien se presentó como “la perfecta siempre Virgen Santa María, Madre del verdadero Dios”. La Virgen le encomendó que en su nombre le pidiese al Obispo Capitalino, el franciscano Fray Juan de Zumárraga, la construcción de una Iglesia en el lugar de la aparición.
+El Obispo no aceptó la idea y la Virgen le pidió que insistiera.</description>
+    </item>
+  </channel>
+</rss>

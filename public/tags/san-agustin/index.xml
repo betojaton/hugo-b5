@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San Agustin on My New Hugo Site</title>
+    <link>https://example.org/tags/san-agustin/</link>
+    <description>Recent content in San Agustin on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 05 Aug 2020 16:19:32 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/san-agustin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>San Agustín</title>
+      <link>https://example.org/san-agustin/</link>
+      <pubDate>Wed, 05 Aug 2020 16:19:32 +0000</pubDate>
+      <guid>https://example.org/san-agustin/</guid>
+      <description>“Tarde te amé, oh Belleza siempre antigua, siempre nueva. Tarde te amé”Dijo San Agustín.
+Este gran Santo es uno de los 36 doctores de la Iglesia y es patrón de “los que buscan a Dios”; también fue autor de varios libros de teología y filosofía, siendo sus obras más famosas las “Confesiones” y “La ciudad de Dios”.
+San Agustín de Hipona nació el 13 de noviembre en el año 354 en la ciuad de Tagaste, ubicada al norte de Africa.</description>
+    </item>
+  </channel>
+</rss>

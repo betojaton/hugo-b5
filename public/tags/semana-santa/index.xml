@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semana Santa on My New Hugo Site</title>
+    <link>https://example.org/tags/semana-santa/</link>
+    <description>Recent content in Semana Santa on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 17 Apr 2022 10:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/semana-santa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Domingo de Pascua</title>
+      <link>https://example.org/domingo-de-pascua/</link>
+      <pubDate>Sun, 17 Apr 2022 10:00:00 +0000</pubDate>
+      <guid>https://example.org/domingo-de-pascua/</guid>
+      <description>Constituye la fiesta más importante de la cristiandad porque conmemora la Resurrección de Jesús.
+El Domingo de Pascua marca el final de la Semana Santa, en la que se conmemora la crucifixión y muerte de Jesús. Cristo con su muerte no liberó del pecado y no reconcilió con Dios. La Pascua simboliza el triunfo de Jesús sobre la muerte y con su resurrección nos abrió puertas del cielo. La resurrección de Cristo es uno de los fundamentos de la religión cristiana, que atestigua su divinidad y la verdad de nuestra fe.</description>
+    </item>
+    <item>
+      <title>La Semana Santa</title>
+      <link>https://example.org/la-semana-santa-2020/</link>
+      <pubDate>Mon, 13 Apr 2020 15:39:57 +0000</pubDate>
+      <guid>https://example.org/la-semana-santa-2020/</guid>
+      <description>Es la semana más intensa del Año Litúrgico, en la cual se reza y reflexiona sobre la Pasión y Muerte de Cristo.
+Explicación de la celebración La Semana Santa es el momento litúrgico más intenso de todo el año. Sin embargo, para muchos católicos se ha convertido sólo en una ocasión de descanso y diversión. Se olvidan de lo esencial: esta semana la debemos dedicar a la oración y la reflexión en los misterios de la Pasión y Muerte de Jesús para aprovechar todas las gracias que esto nos trae.</description>
+    </item>
+    <item>
+      <title>Sábado Santo</title>
+      <link>https://example.org/sabado-santo-2020/</link>
+      <pubDate>Mon, 09 Mar 2020 21:00:26 +0000</pubDate>
+      <guid>https://example.org/sabado-santo-2020/</guid>
+      <description>Es una las fechas más señaladas dentro de las celebraciones de la Semana Santa. Es también el tercer día del “Triduo Pascual”, un período durante el cual la liturgia católica conmemora la pasión, muerte y resurrección de Jesucristo. En esta fecha los católicos acompañan a Cristo al lado de su sepulcro meditando en su pasión y su muerte. No están de luto y tampoco están velando a un difunto. Este día se hace balance, agradeciendo y glorificando al Señor po su inmenso amor y por el haber muerto para la redención de todos.</description>
+    </item>
+    <item>
+      <title>Lunes Santo</title>
+      <link>https://example.org/lunes-santo/</link>
+      <pubDate>Mon, 09 Mar 2020 20:35:54 +0000</pubDate>
+      <guid>https://example.org/lunes-santo/</guid>
+      <description>Es el segundo de los días de la Semana Santa Lunes Santo: “María tomó una libra de perfume de nardo, auténtico y costoso, le ungió a Jesús los pies”</description>
+    </item>
+    <item>
+      <title>Domingo de Ramos</title>
+      <link>https://example.org/domingo-de-ramos-2020/</link>
+      <pubDate>Mon, 09 Mar 2020 20:32:09 +0000</pubDate>
+      <guid>https://example.org/domingo-de-ramos-2020/</guid>
+      <description>También es denominado “Domingo de Pasión”, es el primer día de la Semana Santa. es una fecha que cambia todos los años.
+Marca además el comienzo de la Semana Santa, un período donde se conmemoran la Pasión, Muerte y Resurrección de Jesús.
+En este día se recuerda a Jesucristo cuando realizó la entrada triunfal a Jerusalén.
+Fue alabado por una multitud que lo aclamaba como Rey con cantos y palmas.</description>
+    </item>
+  </channel>
+</rss>

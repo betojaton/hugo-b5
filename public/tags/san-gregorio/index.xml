@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San Gregorio on My New Hugo Site</title>
+    <link>https://example.org/tags/san-gregorio/</link>
+    <description>Recent content in San Gregorio on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 05 Jan 2020 16:05:19 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/san-gregorio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bautismo del Señor</title>
+      <link>https://example.org/bautismo-del-senor-2/</link>
+      <pubDate>Sun, 05 Jan 2020 16:05:19 +0000</pubDate>
+      <guid>https://example.org/bautismo-del-senor-2/</guid>
+      <description>Con el Bautismo del Señor se concluye la temporada de Navidad y la Iglesia nos invita a mirar la humildad de Jesús que se convierte en una epifanía (manifestación) de la Santísima Trinidad.
+“Juan está bautizando, y Cristo se acerca; tal vez para santificar al mismo por quien va a ser bautizado; y sin duda para sepultar en las aguas a todo el viejo Adán, santificando el Jordán antes de nosotros y por nuestra causa; y así, el Señor, que era espíritu y carne, nos consagra mediante el Espíritu y el agua”, manifestó San Gregorio Nacianceno en uno de sus sermones.</description>
+    </item>
+  </channel>
+</rss>

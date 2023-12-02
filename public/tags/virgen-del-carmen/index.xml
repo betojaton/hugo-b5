@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virgen del Carmen on My New Hugo Site</title>
+    <link>https://example.org/tags/virgen-del-carmen/</link>
+    <description>Recent content in Virgen del Carmen on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sat, 11 Jul 2020 22:26:27 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/virgen-del-carmen/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virgen del Carmen</title>
+      <link>https://example.org/virgen-del-carmen-julio2020-2/</link>
+      <pubDate>Sat, 11 Jul 2020 22:26:27 +0000</pubDate>
+      <guid>https://example.org/virgen-del-carmen-julio2020-2/</guid>
+      <description>El Carmelo era sin duda, el monte donde numerosos profetas rindieron culto a Dios. Los principales fueron Elías y su discípulo Eliseo, pero existían también diferentes personas que se retiraban en las cuevas de la montaña para seguir una vida eremítica. Esta forma de oración, de penitencia y de austeridad fue continuada siglos más tarde, concretamente en el III y IV, por hombres cristianos que siguieron el modelo de Jesucristo y que de alguna forma tuvieron al mismo Elías como patrón situándose en el valle llamado Wadi-es-Siah.</description>
+    </item>
+    <item>
+      <title>Virgen del Carmen</title>
+      <link>https://example.org/virgen-del-carmen-julio2020/</link>
+      <pubDate>Sat, 11 Jul 2020 22:26:27 +0000</pubDate>
+      <guid>https://example.org/virgen-del-carmen-julio2020/</guid>
+      <description>El Carmelo era sin duda, el monte donde numerosos profetas rindieron culto a Dios. Los principales fueron Elías y su discípulo Eliseo, pero existían también diferentes personas que se retiraban en las cuevas de la montaña para seguir una vida eremítica. Esta forma de oración, de penitencia y de austeridad fue continuada siglos más tarde, concretamente en el III y IV, por hombres cristianos que siguieron el modelo de Jesucristo y que de alguna forma tuvieron al mismo Elías como patrón situándose en el valle llamado Wadi-es-Siah.</description>
+    </item>
+  </channel>
+</rss>

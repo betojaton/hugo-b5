@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papa Pio XII on My New Hugo Site</title>
+    <link>https://example.org/tags/papa-pio-xii/</link>
+    <description>Recent content in Papa Pio XII on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 13 Apr 2020 16:51:06 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/papa-pio-xii/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FIESTA DE SAN JOSÉ OBRERO, PATRONO DE LOS TRABAJADORES</title>
+      <link>https://example.org/fiesta-san-jose-obrero-patrono-de-los-trabajadores/</link>
+      <pubDate>Mon, 13 Apr 2020 16:51:06 +0000</pubDate>
+      <guid>https://example.org/fiesta-san-jose-obrero-patrono-de-los-trabajadores/</guid>
+      <description>El 1 de mayo la Iglesia celebra la Fiesta de San José Obrero, patrono de los trabajadores, fecha que coincide con el Día Mundial del Trabajo. Esta celebración litúrgica fue instituida en 1955 por el Siervo de Dios, Papa Pío XII, ante un grupo de obreros reunidos en la Plaza de San Pedro en el Vaticano.
+El Santo Padre pidió en esa oportunidad que “el humilde obrero de Nazaret, además de encarnar delante de Dios y de la Iglesia la dignidad del obrero manual, sea también el próvido guardián de vosotros y de vuestras familias”.</description>
+    </item>
+  </channel>
+</rss>

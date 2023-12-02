@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virgen de Guadalupe on My New Hugo Site</title>
+    <link>https://example.org/tags/virgen-de-guadalupe/</link>
+    <description>Recent content in Virgen de Guadalupe on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 13 Apr 2020 16:39:10 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/virgen-de-guadalupe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NUESTRA SEÑORA DE GUADALUPE PATRONA DE NUESTRA ARQUIDIÓSECIS</title>
+      <link>https://example.org/nuestra-senora-de-guadalupe-patrona-de-nuestra-arquidiosecis/</link>
+      <pubDate>Mon, 13 Apr 2020 16:39:10 +0000</pubDate>
+      <guid>https://example.org/nuestra-senora-de-guadalupe-patrona-de-nuestra-arquidiosecis/</guid>
+      <description>En 1899, el papa León XIII proclamó a la Virgen de Guadalupe, Patrona y Titular de la Diócesis de Santa Fe. El 14 de octubre de 1900 se realiza la primera procesión oficial por iniciativa de monseñor Boneo, primer obispo de la diócesis. Cabe mencionar que esta es la primera peregrinación oficial, pero existen datos que hablan de procesiones anteriores, populares y espontáneas.
+La imagen recibio la coronación pontificia el domingo 22 de abril de 1928, en una celebración que empezó con una peregrinación a las 6:00 AM, encabezada por el Centro de la Juventud Católica de la parroquia San José y el Regimiento 12 de Infantería con su banda, hacía el santuario de las hermanas adoratrices en Boulevard Gálvez.</description>
+    </item>
+  </channel>
+</rss>

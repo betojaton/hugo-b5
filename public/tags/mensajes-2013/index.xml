@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mensajes 2013 on My New Hugo Site</title>
+    <link>https://example.org/tags/mensajes-2013/</link>
+    <description>Recent content in Mensajes 2013 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 08 Sep 2013 16:06:42 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/mensajes-2013/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Domingo 8 de Septiembre de 2013 en el “Campito”</title>
+      <link>https://example.org/2013/domingo-8-de-septiembre-de-2013-en-el-campito/</link>
+      <pubDate>Sun, 08 Sep 2013 16:06:42 +0000</pubDate>
+      <guid>https://example.org/2013/domingo-8-de-septiembre-de-2013-en-el-campito/</guid>
+      <description>Dice la Santísima Virgen:
+“Hijos Míos; benditos y amados hijos Míos, abro Mis Brazos para recibiros a todos vosotros, abro Mis Brazos para cobijaros en ellos y daros el consuelo y la serenidad para vuestros corazones.
+Aquí está la Madre con todos los hijos y toda la humanidad debe responder a mi pedido: oración, la oración de cada día, los hijos, Mis hijos deben volcarse cada día a la oración y suplicar y pedir la paz, la paz para todos los corazones.</description>
+    </item>
+  </channel>
+</rss>

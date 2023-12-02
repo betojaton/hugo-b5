@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virgen del Rosario on My New Hugo Site</title>
+    <link>https://example.org/tags/virgen-del-rosario/</link>
+    <description>Recent content in Virgen del Rosario on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 10 Sep 2020 00:10:49 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/virgen-del-rosario/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Virgen del Rosario</title>
+      <link>https://example.org/virgen-del-rosario/</link>
+      <pubDate>Thu, 10 Sep 2020 00:10:49 +0000</pubDate>
+      <guid>https://example.org/virgen-del-rosario/</guid>
+      <description>Hoy la Iglesia celebra a la Virgen del Rosario La Virgen del Rosario, advocación que hace referencia al rezo del Santo Rosario que la propia Madre de Dios pidió que se difundiera para obtener abundantes gracias.
+En el año 1208 la Virgen María se le apareció a Santo Domingo y le enseñó a rezar el Rosario para que lo propagara. El santo así lo hizo y su difusión fue tal que las tropas cristianas, antes de la Batalla de Lepanto (7 de octubre de 1571), rezaron el Santo Rosario y salieron victoriosas.</description>
+    </item>
+  </channel>
+</rss>

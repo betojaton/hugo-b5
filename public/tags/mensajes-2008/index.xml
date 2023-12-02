@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mensajes 2008 on My New Hugo Site</title>
+    <link>https://example.org/tags/mensajes-2008/</link>
+    <description>Recent content in Mensajes 2008 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 27 Mar 2008 13:52:36 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/mensajes-2008/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mensaje, 27 de marzo, 2008</title>
+      <link>https://example.org/2008/mensaje-27-marzo-2008/</link>
+      <pubDate>Thu, 27 Mar 2008 13:52:36 +0000</pubDate>
+      <guid>https://example.org/2008/mensaje-27-marzo-2008/</guid>
+      <description>Me Dice la Santísima Virgen:
+Hijos míos: benditos y amados hijos míos, abrid permanentemente el corazón, para recibir las palabras de ésta Madre. Abrid permanentemente el corazón, para que la luz de Jesús ilumine el camino.
+Para que la luz de Jesús borre el hielo de vuestro corazón.
+¡Hijitos, hijitos míos! Que las pruebas, que las tribulaciones, no dobleguen vuestro corazón. Sino, que las pruebas sirvan para fortaleceros. ¡Para fortalecer vuestro espíritu!</description>
+    </item>
+  </channel>
+</rss>

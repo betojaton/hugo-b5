@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San Juan Bautista on My New Hugo Site</title>
+    <link>https://example.org/tags/san-juan-bautista/</link>
+    <description>Recent content in San Juan Bautista on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 05 Aug 2020 16:02:51 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/san-juan-bautista/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>San Juan Bautista</title>
+      <link>https://example.org/san-juan-bautista/</link>
+      <pubDate>Wed, 05 Aug 2020 16:02:51 +0000</pubDate>
+      <guid>https://example.org/san-juan-bautista/</guid>
+      <description>Cada 29 de agosto la Iglesia Católica conmemora el Martirio de San Juan Bautista, quien murió decapitado por anunciar y denunciar la verdad. Juan Bautista es el único santo en la Iglesia a quien se le celebra su nacimiento (24 de junio) y su muerte por medio del martirio.</description>
+    </item>
+  </channel>
+</rss>

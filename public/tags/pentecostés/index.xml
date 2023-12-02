@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pentecostés on My New Hugo Site</title>
+    <link>https://example.org/tags/pentecost%C3%A9s/</link>
+    <description>Recent content in Pentecostés on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 15 May 2020 20:40:35 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/pentecost%C3%A9s/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>El Domingo de Pentecostés</title>
+      <link>https://example.org/domingo-pentecostes/</link>
+      <pubDate>Fri, 15 May 2020 20:40:35 +0000</pubDate>
+      <guid>https://example.org/domingo-pentecostes/</guid>
+      <description>En esta fecha se celebra el descenso del Espíritu Santo y el inicio de la actividad de la Iglesia, por ello también se le conoce como la “celebración del Espíritu Santo”. Es un día variable en el calendario, en fecha diferente cada año. Porque la solemnidad de Pentecostés tiene lugar 7 semanas después del Domingo de Pascua.</description>
+    </item>
+  </channel>
+</rss>

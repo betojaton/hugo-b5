@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mensajes 2015 on My New Hugo Site</title>
+    <link>https://example.org/tags/mensajes-2015/</link>
+    <description>Recent content in Mensajes 2015 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 24 Apr 2015 10:14:29 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/mensajes-2015/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Viernes, 24 de Abril 2015</title>
+      <link>https://example.org/viernes-24-de-abril/</link>
+      <pubDate>Fri, 24 Apr 2015 10:14:29 +0000</pubDate>
+      <guid>https://example.org/viernes-24-de-abril/</guid>
+      <description>Por la noche le dice la Santísima Virgen a Vicente, siendo las 23:10 hs.
+Vicente hijo mío: Muchas almas están desbarrancándose, están en el abismo, muchas aún caminan sobre el precipicio y no han caído, por eso Mi deseo de Madre y Mi ardiente súplica, es que Mis hijos continúen en permanente oración, que Mis hijos no abandonen jamás la oración, pido a todos los corazones, a cada uno de Mis hijos, que continuéis esforzándoos cada día y que mantengáis encendida la luz de Cristo Jesús, Mi Hijo Amadísimo en vuestros corazones, confiad en el Señor y jamás dudéis de su Providencia amorosa.</description>
+    </item>
+  </channel>
+</rss>

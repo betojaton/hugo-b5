@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Papa Francisco on My New Hugo Site</title>
+    <link>https://example.org/tags/papa-francisco/</link>
+    <description>Recent content in Papa Francisco on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 09 Jun 2020 18:45:41 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/papa-francisco/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solemnidad de San Pedro y San Pablo</title>
+      <link>https://example.org/solemnidad-san-pedro-y-san-pablo-2/</link>
+      <pubDate>Tue, 09 Jun 2020 18:45:41 +0000</pubDate>
+      <guid>https://example.org/solemnidad-san-pedro-y-san-pablo-2/</guid>
+      <description>Como cada , la Iglesia Católica celebra este año en todo el mundo el Día del Papa, solemnidad conjunta de los apóstoles, San Pedro y San Pablo, recordamos a estos grandes testigos de Jesucristo y, a la vez, hacemos una solemne confesión de fe en la Iglesia una, santa, católica y apostólica.
+Ante todo es una fiesta de la catolicidad.</description>
+    </item>
+    <item>
+      <title>Solemnidad de San Pedro y San Pablo</title>
+      <link>https://example.org/solemnidad-san-pedro-y-san-pablo/</link>
+      <pubDate>Tue, 09 Jun 2020 18:45:41 +0000</pubDate>
+      <guid>https://example.org/solemnidad-san-pedro-y-san-pablo/</guid>
+      <description>Como cada , la Iglesia Católica celebra este año en todo el mundo el Día del Papa, solemnidad conjunta de los apóstoles, San Pedro y San Pablo, recordamos a estos grandes testigos de Jesucristo y, a la vez, hacemos una solemne confesión de fe en la Iglesia una, santa, católica y apostólica.
+Ante todo es una fiesta de la catolicidad.</description>
+    </item>
+    <item>
+      <title>El Papa Franscico</title>
+      <link>https://example.org/el-papa-franscico/</link>
+      <pubDate>Fri, 15 May 2020 20:59:31 +0000</pubDate>
+      <guid>https://example.org/el-papa-franscico/</guid>
+      <description>Propuso dos oraciones para rezar a la Virgen María en este mes de mayo.
+Una de ellas es una adaptación al contexto actual de coronavirus de la tradicional oración “Bajo tu amparo”.
+«Bajo tu amparo nos acogemos, Santa Madre deDios». En ladramática situación actual, llena desufrimientos y angustias que oprimen al mundo entero, acudimos a ti, Madre de Dios y Madre nuestra, y buscamos refugio bajo tu protección.
+Oh Virgen María, vuelve a nosotros tus ojos misericordiosos en esta pandemia de coronavirus, y consuela a los que se encuentran confundidos y lloran por la pérdida de sus seres queridos, a veces sepultados de un modo que hiere el alma.</description>
+    </item>
+    <item>
+      <title>Nuestra Señora de Fatima</title>
+      <link>https://example.org/nuestra-senora-fatima-may2020/</link>
+      <pubDate>Fri, 15 May 2020 16:10:26 +0000</pubDate>
+      <guid>https://example.org/nuestra-senora-fatima-may2020/</guid>
+      <description>Cada 13 de mayo se celebra en todo el mundo la Fiesta de la Virgen de Fátima, en memoria de su primera aparición en las colinas de Cova de Iría (Portugal) en 1917.
+El año pasado el Papa Francisco viajó a Fátima por los 100 años de las apariciones y la canonización de los pastorcitos Francisco y Jacinta Marto.
+“No tengáis miedo. No os hago daño”, dijo la Virgen María el día de la primera aparición a Lucía, Jacinta y Francisco, los niños pastores que contemplaban a una señora vestida de blanco, más brillante que el sol.</description>
+    </item>
+  </channel>
+</rss>

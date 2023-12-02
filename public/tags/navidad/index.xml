@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>navidad on My New Hugo Site</title>
+    <link>https://example.org/tags/navidad/</link>
+    <description>Recent content in navidad on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 21 Dec 2020 21:49:09 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/navidad/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sagrada Familia</title>
+      <link>https://example.org/sagrada-familia/</link>
+      <pubDate>Mon, 21 Dec 2020 21:49:09 +0000</pubDate>
+      <guid>https://example.org/sagrada-familia/</guid>
+      <description>Hoy se celebra la fiesta de la Sagrada Familia y la Iglesia nos invita a mirar a José, María y al Niño Jesús, quienes desde un principio tuvieron que enfrentar peligros y el exilio a Egipto, pero demostrando que siempre el amor puede más que la muerte. Ellos son reflejo de la Trinidad y modelo de toda familia.
+La fiesta de la Sagrada Familia, que se celebra dentro de la Octava de Navidad, es una celebración que motiva a profundizar en el amor familiar, examinar la propia situación del hogar y buscar soluciones que ayuden al papá, la mamá y los hijos a ser cada vez más como la Familia de Nazaret.</description>
+    </item>
+    <item>
+      <title>Cena De Nochebuena</title>
+      <link>https://example.org/cena-de-nochebuena/</link>
+      <pubDate>Mon, 21 Dec 2020 21:34:09 +0000</pubDate>
+      <guid>https://example.org/cena-de-nochebuena/</guid>
+      <description>Las familias cristianas se suelen reunir en la noche del 24 de diciembre, víspera de la Navidad, y hacer una cena muy abundante. Se acostumbra comer pavo y otros platillos propios de esta época. Se trata de que sea una cena especial, distinta a la de todos los días, ya que se está celebrando el Nacimiento del Hijo de Dios. Esta costumbre nació en Europa y simboliza la abundancia que Cristo nos trae con su llegada.</description>
+    </item>
+    <item>
+      <title>Bautismo del Señor</title>
+      <link>https://example.org/bautismo-del-senor-2/</link>
+      <pubDate>Sun, 05 Jan 2020 16:05:19 +0000</pubDate>
+      <guid>https://example.org/bautismo-del-senor-2/</guid>
+      <description>Con el Bautismo del Señor se concluye la temporada de Navidad y la Iglesia nos invita a mirar la humildad de Jesús que se convierte en una epifanía (manifestación) de la Santísima Trinidad.
+“Juan está bautizando, y Cristo se acerca; tal vez para santificar al mismo por quien va a ser bautizado; y sin duda para sepultar en las aguas a todo el viejo Adán, santificando el Jordán antes de nosotros y por nuestra causa; y así, el Señor, que era espíritu y carne, nos consagra mediante el Espíritu y el agua”, manifestó San Gregorio Nacianceno en uno de sus sermones.</description>
+    </item>
+  </channel>
+</rss>

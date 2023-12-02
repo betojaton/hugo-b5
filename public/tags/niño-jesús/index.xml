@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niño Jesús on My New Hugo Site</title>
+    <link>https://example.org/tags/ni%C3%B1o-jes%C3%BAs/</link>
+    <description>Recent content in Niño Jesús on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 21 Dec 2020 21:53:13 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/ni%C3%B1o-jes%C3%BAs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Los Santos Inocentes</title>
+      <link>https://example.org/los-santos-inocentes/</link>
+      <pubDate>Mon, 21 Dec 2020 21:53:13 +0000</pubDate>
+      <guid>https://example.org/los-santos-inocentes/</guid>
+      <description>Representan a aquellos que murieron por Cristo sin saberlo.
+El día de hoy se conmemora a los Niños Inocentes que el cruel Herodes mandó matar. Según señala el Evangelio de San Mateo, Herodes llamó a los Sumos Sacerdotes para preguntarles en qué sitio exacto iba a nacer el rey de Israel, al que habían anunciado los profetas. Ellos le contestaron: “Tiene que ser en Belén, porque así lo anunció el profeta Miqueas diciendo: “Y tú, Belén, no eres la menor entre las ciudades de Judá, porque de ti saldrá el jefe que será el pastor de mi pueblo de Israel” (Miq.</description>
+    </item>
+  </channel>
+</rss>

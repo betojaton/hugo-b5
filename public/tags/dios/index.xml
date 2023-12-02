@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dios on My New Hugo Site</title>
+    <link>https://example.org/tags/dios/</link>
+    <description>Recent content in Dios on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 21 Dec 2020 21:55:41 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/dios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¡Feliz Solemnidad de María, Madre de Dios!</title>
+      <link>https://example.org/feliz-solemnidad-maria-madre-dios/</link>
+      <pubDate>Mon, 21 Dec 2020 21:55:41 +0000</pubDate>
+      <guid>https://example.org/feliz-solemnidad-maria-madre-dios/</guid>
+      <description>Un nuevo año comienza y la Iglesia, cada 1 de enero, lo inicia celebrando la Solemnidad de “María, Madre de Dios” para pedir la protección de aquella que tuvo la dicha de concebir, dar a luz y criar al Salvador.
+La Fiesta de “María, Madre de Dios” (Theotokos) es la más antigua que se conoce en Occidente. En las Catacumbas o antiquísimos subterráneos de Roma, donde se reunían los primeros cristianos para celebrar la Santa Misa, se encuentran pinturas con esta inscripción.</description>
+    </item>
+    <item>
+      <title>Viernes Santo</title>
+      <link>https://example.org/viernes-santo-2020-2/</link>
+      <pubDate>Mon, 09 Mar 2020 20:54:25 +0000</pubDate>
+      <guid>https://example.org/viernes-santo-2020-2/</guid>
+      <description>Constituye una las fechas más trascendentales de las celebraciones de la Semana Santa. Es también el segundo día del llamado “Triduo Pascual”, un periodo durante el cual la liturgia católica conmemora la pasión, muerte y resurrección de Jesucristo.
+En esta fecha se recuerda la muerte de Jesús en la cruz, para salvarnos del pecado y darnos la vida eterna.
+Jesús murió a los 33 años y a las 3 de la tarde.</description>
+    </item>
+    <item>
+      <title>Viernes Santo</title>
+      <link>https://example.org/viernes-santo-2020/</link>
+      <pubDate>Mon, 09 Mar 2020 20:54:25 +0000</pubDate>
+      <guid>https://example.org/viernes-santo-2020/</guid>
+      <description>Constituye una las fechas más trascendentales de las celebraciones de la Semana Santa. Es también el segundo día del llamado “Triduo Pascual”, un periodo durante el cual la liturgia católica conmemora la pasión, muerte y resurrección de Jesucristo.
+En esta fecha se recuerda la muerte de Jesús en la cruz, para salvarnos del pecado y darnos la vida eterna.
+Jesús murió a los 33 años y a las 3 de la tarde.</description>
+    </item>
+    <item>
+      <title>Anunciación del Señor</title>
+      <link>https://example.org/anunciacion-del-senor/</link>
+      <pubDate>Mon, 09 Mar 2020 20:29:17 +0000</pubDate>
+      <guid>https://example.org/anunciacion-del-senor/</guid>
+      <description>En el ámbito cristiano se conoce como Anunciación al episodio de la vida de la Virgen María en el que el Ángel Gabriel le anuncia que va a ser la madre de Jesús. Este episodio aparece narrado en el Evangelio de Lucas. Es entonces cuando el ángel se presenta ante ella y le anuncia su maternidad.
+Al ángel que le propone ser madre, María le hace presente su propósito de virginidad.</description>
+    </item>
+    <item>
+      <title>Fiesta de la Conversión de San Pablo</title>
+      <link>https://example.org/fiesta-conversion-san-pablo/</link>
+      <pubDate>Sun, 05 Jan 2020 16:07:29 +0000</pubDate>
+      <guid>https://example.org/fiesta-conversion-san-pablo/</guid>
+      <description>Cada 25 de enero, la Iglesia Católica celebra el día en que San Pablo -entonces llamado Saulo- alcanzó la conversión camino a Damasco, a donde se dirigía para perseguir a los cristianos.
+Como se recuerda, camino a Damasco Saulo fue derribado del caballo por el mismo Jesús a través de una luz del cielo que brilló sobre él y sus compañeros, cegándolo por espacio de tres días.
+Durante ese tiempo, Saulo permaneció en casa de un judío llamado Judas, sin comer ni beber.</description>
+    </item>
+  </channel>
+</rss>

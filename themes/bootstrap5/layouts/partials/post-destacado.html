@@ -1,0 +1,18 @@
+  <!-- Start: Destacada -->
+  {{ define "main" }}
+  <article class="card destacada mb-5 {{ if .Params.destacado }}post-destacado{{ end }}">
+    <img class="card-img-top w-100 d-block card-img-top" src="/images/MSFe-inicia-novena.png">
+    <div class="card-body">
+      <h4>{{ .Title }}</h4>
+      <div class="meta py-1 border-top border-bottom mb-2">
+        <h6 class="text-muted mb-1 fst-italic">
+          <i class="far fa-calendar-check me-2"></i>
+        {{ .Date.Format "2 de enero de 2006" }}</h6>
+      </div><!-- End: meta -->
+      <p>{{ .Content }}
+      </p>
+    </article>
+    {{ end }}
+
+
+    

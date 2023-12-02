@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Efemerides on My New Hugo Site</title>
+    <link>https://example.org/tags/efemerides/</link>
+    <description>Recent content in Efemerides on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 02 Jun 2023 13:35:37 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/efemerides/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>JUNIO – Mes del SAGRADO CORAZÓN DE JESÚS</title>
+      <link>https://example.org/2023/junio-mes-del-sagrado-corazon-de-jesus/</link>
+      <pubDate>Fri, 02 Jun 2023 13:35:37 +0000</pubDate>
+      <guid>https://example.org/2023/junio-mes-del-sagrado-corazon-de-jesus/</guid>
+      <description> </description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santa Teresita del Niño Jesus on My New Hugo Site</title>
+    <link>https://example.org/tags/santa-teresita-del-ni%C3%B1o-jesus/</link>
+    <description>Recent content in Santa Teresita del Niño Jesus on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 10 Sep 2020 00:14:03 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/santa-teresita-del-ni%C3%B1o-jesus/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Santa Teresita del Niño Jesús</title>
+      <link>https://example.org/santa-teresita-del-nino-jesus-2/</link>
+      <pubDate>Thu, 10 Sep 2020 00:14:03 +0000</pubDate>
+      <guid>https://example.org/santa-teresita-del-nino-jesus-2/</guid>
+      <description>Santa Teresita del Niño Jesús, patrona universal de las misiones.
+“Quiero pasar mi cielo haciendo el bien en la tierra”, decía Santa Teresa del Niño Jesús o también conocida como Santa Teresa de Lisieux, cuya fiesta se celebra cada 01 de octubre. Es patrona de las misiones y Doctora de la Iglesia.</description>
+    </item>
+  </channel>
+</rss>

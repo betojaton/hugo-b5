@@ -1,0 +1,45 @@
+{{ $pages := .Pages }}
+{{ if .IsHome }}
+{{ $pages = where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{ end }}
+{{ range (.Paginate $pages).Pages }}
+<div class="col col-md-6 mb-4">
+    <div class="card">
+        {{ with .Params.thumbnail }}
+        <img class="card-img-top w-100 d-block card-img-top" src="{{ . }}"/>
+        {{ end }}
+        <div class="card-body">
+            <h3>{{ .Title }}</h3>
+            <!-- Start: meta -->
+            <div class="meta py-1 border-top border-bottom mb-2">
+                <h6 class="text-light mb-1 fst-italic">
+                    <i class="far fa-calendar-check me-2"></i>
+                    {{ .Date.Format (default "January 2, 2006" $.Site.Params.dateFormat) }}
+                </h6>
+                <h6 class="text-light mb-1 fst-italic fw-light" style="">
+                    <i class="fas fa-tag me-2"></i>
+                    {{ with .Params.categories }}
+                    <a href="/categories/{{ index . 0 | urlize }}">{{ index . 0 }}</a>
+                    {{ end }}
+
+                    <!-- <a href="">{{ .Params.tags }}</a>    -->
+                </h6>
+            </div><!-- End: meta -->
+            <p>
+                {{ if .Params.summary }}
+                {{ .Params.summary }}
+                {{ else if .Params.abstract }}
+                {{ .Params.abstract }}
+                {{ else }}
+                {{ truncate 300 .Summary }}
+                {{ end }}
+            </p>
+            <a href="{{ .Permalink }}">
+                Leer más<i class="fas fa-long-arrow-alt-right ms-1"></i>
+            </a>
+        </div><!-- End: card-body -->
+    </div><!-- End: card -->
+</div><!-- End: col-->
+{{ end }}
+
+{{template "_internal/pagination.html" . }}

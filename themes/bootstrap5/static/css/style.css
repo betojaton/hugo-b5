@@ -1,0 +1,85 @@
+
+:root {
+	--bs-primary: #2DABE1;
+	--bs-primary-rgb: 45, 171, 225;
+	--bs-primary-light: #65C5EA;
+	--bs-secondary: #F8E23A;
+	--bs-light: #A5CEDD;
+	--bs-light-rgb: 165, 206, 221;
+}
+html {
+	overflow-y: scroll;
+}
+body {
+	background-color: var(--bs-light);
+	font-family: 'Roboto';
+	font-weight: 400;
+	line-height: 1.5;
+	font-size: 1.1rem;
+}
+/*.grid-container {
+	display: grid;
+	grid-template-columns: 50% 1fr;
+	grid-column-gap: 3rem
+}*/
+/*TIPOGRAFIAS*/
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Playfair Display';
+	color: var(--bs-primary);
+}
+
+/*NAVBAR*/
+a, .btn {
+	transition: all .5s ease-in-out;
+}
+a:hover, .active {
+	color: var(--bs-primary);
+}
+
+.btn {
+	background-color: var(--bs-primary);
+	color: #fff;
+	border: none;
+}
+.btn:hover {
+	-moz-box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.5);
+	-webkit-box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.5);
+	box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0.5);
+}
+.card {
+	border: none;
+	background-color: #eee;
+}
+/* Estilo para los posts destacados */
+.post-destacado {
+	background-color: red; /* Cambia el color de fondo según tu preferencia */
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Agrega sombra para resaltar */
+}
+
+/*PAGINATION*/
+.page-item {
+	padding: 0.2rem;
+}
+.page-item:first-child, 
+.page-item:last-child {
+	display: none;
+}
+.page-item.disabled {
+	opacity: 0,7;
+}
+/*SIDEBAR*/
+.sidebar-links {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.3rem;
+}
+.tags-links {
+	display: flex;
+	gap: 0.3rem;
+
+}
+@media (max-width: 767px) {
+	.grid-container {
+		grid-template-columns: 100%;
+	}
+}

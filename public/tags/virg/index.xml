@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>virg on My New Hugo Site</title>
+    <link>https://example.org/tags/virg/</link>
+    <description>Recent content in virg on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 05 Aug 2020 15:42:37 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/virg/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Asunción de la Virgen María</title>
+      <link>https://example.org/asuncion-virgen-maria/</link>
+      <pubDate>Wed, 05 Aug 2020 15:42:37 +0000</pubDate>
+      <guid>https://example.org/asuncion-virgen-maria/</guid>
+      <description>Asunción de la Santísima Virgen María La fiesta de la Asunción de la Santísima Virgen María, se celebra en toda la Iglesia el 15 de agosto.
+Esta fiesta tiene un doble objetivo: La feliz partida de María de esta vida y la asunción de su cuerpo al cielo.
+“En esta solemnidad de la Asunción contemplamos a María: ella nos abre a la esperanza, a un futuro lleno de alegría y nos enseña el camino para alcanzarlo: acoger en la fe a su Hijo; no perder nunca la amistad con él, sino dejarnos iluminar y guiar por su Palabra; seguirlo cada día, incluso en los momentos en que sentimos que nuestras cruces</description>
+    </item>
+  </channel>
+</rss>

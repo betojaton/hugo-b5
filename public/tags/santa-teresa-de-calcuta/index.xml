@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Santa Teresa de Calcuta on My New Hugo Site</title>
+    <link>https://example.org/tags/santa-teresa-de-calcuta/</link>
+    <description>Recent content in Santa Teresa de Calcuta on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 05 Aug 2020 16:07:04 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/santa-teresa-de-calcuta/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Santa Teresa de Calcuta</title>
+      <link>https://example.org/santa-teresa-de-calcuta/</link>
+      <pubDate>Wed, 05 Aug 2020 16:07:04 +0000</pubDate>
+      <guid>https://example.org/santa-teresa-de-calcuta/</guid>
+      <description>Agnes Gonxha Bojaxhiu nació en 1910 en Skopje, entonces Albania y actual Macedonia. Murió el 5 de septiembre de 1997 en su amada Calcuta, India. Cuando se hizo religiosa tomó el nombre de Teresa. Es la fundadora de las Misioneras de la Caridad.
+Decía de sí misma:
+“De sangre soy albanesa. De ciudadanía, India. En lo referente a la fe, soy una monja Católica. Por mi vocación, pertenezco al mundo. En lo que se refiere a mi corazón, pertenezco totalmente al Corazón de Jesús”.</description>
+    </item>
+  </channel>
+</rss>

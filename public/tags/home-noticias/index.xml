@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home [Noticias] on My New Hugo Site</title>
+    <link>https://example.org/tags/home-noticias/</link>
+    <description>Recent content in Home [Noticias] on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 30 Nov 2015 13:02:50 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/home-noticias/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>¿Qué es el Adviento?</title>
+      <link>https://example.org/que-es-el-adviento/</link>
+      <pubDate>Mon, 30 Nov 2015 13:02:50 +0000</pubDate>
+      <guid>https://example.org/que-es-el-adviento/</guid>
+      <description>El Adviento es el comienzo del Año Litúrgico, empieza el domingo más próximo al 30 de noviembre y termina el 24 de diciembre. Son los cuatro domingos anteriores a la Navidad y forma una unidad con la Navidad y la Epifanía.
+El término “Adviento” viene del latín adventus, que significa venida, llegada. El color usado en la liturgia de la Iglesia durante este tiempo es el morado. Con el Adviento comienza un nuevo año litúrgico en la Iglesia.</description>
+    </item>
+  </channel>
+</rss>

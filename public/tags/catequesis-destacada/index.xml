@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Catequesis [Destacada] on My New Hugo Site</title>
+    <link>https://example.org/tags/catequesis-destacada/</link>
+    <description>Recent content in Catequesis [Destacada] on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 07 Feb 2020 11:52:47 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/catequesis-destacada/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Guía para Hacer una Buena Confesión</title>
+      <link>https://example.org/guia-para-una-buena-confesion/</link>
+      <pubDate>Fri, 07 Feb 2020 11:52:47 +0000</pubDate>
+      <guid>https://example.org/guia-para-una-buena-confesion/</guid>
+      <description>Para facilitar el examen de conciencia, presentamos una guía en forma de preguntas.
+Preparación para la confesión ¿Que se necesita para confesarse bien ? Examen de conciencia: Que consiste en recordar todos los pecados que hemos cometido desde la última confesión. Arrepentimiento: Que consiste en sentir sincero dolor de haber ofendido a Dios; y detestar el pecado. (Para alcanzar el arrepentimiento hay que pedírselo a Dios) Propósito de la enmienda: Que consiste en decidirse firmemente a no volver a pecar; en estar dispuestos a evitar el pecado, cueste lo que cueste.</description>
+    </item>
+  </channel>
+</rss>

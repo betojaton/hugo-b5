@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virgen de los Milagros on My New Hugo Site</title>
+    <link>https://example.org/tags/virgen-de-los-milagros/</link>
+    <description>Recent content in Virgen de los Milagros on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 09 May 2022 10:30:00 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/virgen-de-los-milagros/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuestra Señora de los Milagros</title>
+      <link>https://example.org/nuestra-senora-de-los-milagros/</link>
+      <pubDate>Mon, 09 May 2022 10:30:00 +0000</pubDate>
+      <guid>https://example.org/nuestra-senora-de-los-milagros/</guid>
+      <description>Breve Historia En el cuadro de la Inmaculada Concepción se produjo un hecho maravilloso y sumamente consolador, el 9 de mayo de 1636 en el Colegio de la Compañía de Jesús, Santa Fe, Argentina.
+Del lienzo del cuadro brotaba agua en abundancia, a la que se aplicaron algodones para enjuagarla. Este hecho fue presenciado por los Jesuitas del Colegio y el pueblo, que acudió a ver el prodigio. Se levantaron actas cuyos originales se conservan en el Colegio.</description>
+    </item>
+  </channel>
+</rss>

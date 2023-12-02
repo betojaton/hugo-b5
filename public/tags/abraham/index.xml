@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abraham on My New Hugo Site</title>
+    <link>https://example.org/tags/abraham/</link>
+    <description>Recent content in Abraham on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 09 Mar 2020 20:29:17 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/abraham/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Anunciación del Señor</title>
+      <link>https://example.org/anunciacion-del-senor/</link>
+      <pubDate>Mon, 09 Mar 2020 20:29:17 +0000</pubDate>
+      <guid>https://example.org/anunciacion-del-senor/</guid>
+      <description>En el ámbito cristiano se conoce como Anunciación al episodio de la vida de la Virgen María en el que el Ángel Gabriel le anuncia que va a ser la madre de Jesús. Este episodio aparece narrado en el Evangelio de Lucas. Es entonces cuando el ángel se presenta ante ella y le anuncia su maternidad.
+Al ángel que le propone ser madre, María le hace presente su propósito de virginidad.</description>
+    </item>
+  </channel>
+</rss>

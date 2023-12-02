@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San Mateo on My New Hugo Site</title>
+    <link>https://example.org/tags/san-mateo/</link>
+    <description>Recent content in San Mateo on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 09 Mar 2020 20:21:24 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/san-mateo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>San José Esposo de la Virgen María Patrono de Nuestra Arquidiócesis.</title>
+      <link>https://example.org/san-jose-esposo-de-la-virgen-maria-patrono-de-nuestra-arquidiocesis/</link>
+      <pubDate>Mon, 09 Mar 2020 20:21:24 +0000</pubDate>
+      <guid>https://example.org/san-jose-esposo-de-la-virgen-maria-patrono-de-nuestra-arquidiocesis/</guid>
+      <description>De San José únicamente sabemos los datos históricos que San Mateo y San Lucas nos narran en el Evangelio
+San Mateo narra que San José se había comprometido en ceremonia pública a casarse con la Virgen María. Pero que luego al darse cuenta de que Ella estaba esperando un hijo sin haber vivido juntos los dos, y no entendiendo aquel misterio, en vez de denunciarla como infiel, dispuso abandonarla en secreto e irse a otro pueblo a vivir.</description>
+    </item>
+  </channel>
+</rss>

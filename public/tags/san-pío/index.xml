@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San Pío on My New Hugo Site</title>
+    <link>https://example.org/tags/san-p%C3%ADo/</link>
+    <description>Recent content in San Pío on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 09 Sep 2020 23:52:40 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/san-p%C3%ADo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hoy celebramos a San Pío de Pietrelcina, el sacerdote de los estigmas</title>
+      <link>https://example.org/celebramos-san-pio-pietrelcinal-sacerdote-estigmas/</link>
+      <pubDate>Wed, 09 Sep 2020 23:52:40 +0000</pubDate>
+      <guid>https://example.org/celebramos-san-pio-pietrelcinal-sacerdote-estigmas/</guid>
+      <description>“Oh Jesús, mi suspiro y mi vida, te pido que hagas de mí un sacerdote santo y una víctima perfecta”, escribió una vez San Pío de Pietrelcina, cuya fiesta se celebra hoy. Su oración fue escuchada y se le concedió el don de los estigmas.
+Durante su vida, Dios lo dotó de muchos dones, como el discernimiento extraordinario que le permitió leer los corazones y las conciencias. Por ello muchos fieles acudían a confesarse con él.</description>
+    </item>
+  </channel>
+</rss>

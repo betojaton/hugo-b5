@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San Antonio De Padua on My New Hugo Site</title>
+    <link>https://example.org/tags/san-antonio-de-padua/</link>
+    <description>Recent content in San Antonio De Padua on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 09 Jun 2020 14:47:53 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/san-antonio-de-padua/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>San Antonio de Padua</title>
+      <link>https://example.org/san-antonio-de-padua/</link>
+      <pubDate>Tue, 09 Jun 2020 14:47:53 +0000</pubDate>
+      <guid>https://example.org/san-antonio-de-padua/</guid>
+      <description>Fernando de Bulloes y Taveira de Azevedo nació en Lisboa, Portugal, en 1195; a los 15 años ingresó a los Canónigos Regulares de San Agustín, pero diez años después ingresó a los Frailes Menores Franciscanos donde a los 25 años adoptó el nombre de Antonio.
+Tenía voz clara y fuerte, memoria prodigiosa y un profundo conocimiento, el espíritu de profecía y un extraordinario don de milagros.
+Su fama de obrar actos prodigiosos nunca ha disminuido y aún en la actualidad es reconocido como el más grande taumaturgo de todos los tiempos.</description>
+    </item>
+  </channel>
+</rss>

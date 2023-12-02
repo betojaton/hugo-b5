@@ -1,0 +1,32 @@
+baseURL: 'https://example.org/'
+languageCode: es-es
+title: María de la Santa Fe
+theme: bootstrap5
+
+paginate: 12
+menu:
+  main:
+    - name: Home
+      pageref: /
+      weight: 10
+    - name: About
+      pageref: /about
+      weight: 20
+    - name: Boton
+      url: https://betojaton.com
+      weight: 90
+    - name: Item Dropdown
+      identifier: custom_dropdown
+    - name: Dropdown 1
+      parent: custom_dropdown
+    - name: Dropdown 2
+      parent: custom_dropdown
+
+params:
+  logoName: María de la Santa Fe
+  numberOfTagsShown: 20
+
+
+taxonomies:
+  category: categories
+  tag: tags

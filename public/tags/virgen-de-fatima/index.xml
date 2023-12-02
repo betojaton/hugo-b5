@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virgen de Fatima on My New Hugo Site</title>
+    <link>https://example.org/tags/virgen-de-fatima/</link>
+    <description>Recent content in Virgen de Fatima on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Fri, 15 May 2020 16:10:26 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/virgen-de-fatima/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuestra Señora de Fatima</title>
+      <link>https://example.org/nuestra-senora-fatima-may2020/</link>
+      <pubDate>Fri, 15 May 2020 16:10:26 +0000</pubDate>
+      <guid>https://example.org/nuestra-senora-fatima-may2020/</guid>
+      <description>Cada 13 de mayo se celebra en todo el mundo la Fiesta de la Virgen de Fátima, en memoria de su primera aparición en las colinas de Cova de Iría (Portugal) en 1917.
+El año pasado el Papa Francisco viajó a Fátima por los 100 años de las apariciones y la canonización de los pastorcitos Francisco y Jacinta Marto.
+“No tengáis miedo. No os hago daño”, dijo la Virgen María el día de la primera aparición a Lucía, Jacinta y Francisco, los niños pastores que contemplaban a una señora vestida de blanco, más brillante que el sol.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San Pablo on My New Hugo Site</title>
+    <link>https://example.org/tags/san-pablo/</link>
+    <description>Recent content in San Pablo on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 05 Jan 2020 16:07:29 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/san-pablo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fiesta de la Conversión de San Pablo</title>
+      <link>https://example.org/fiesta-conversion-san-pablo/</link>
+      <pubDate>Sun, 05 Jan 2020 16:07:29 +0000</pubDate>
+      <guid>https://example.org/fiesta-conversion-san-pablo/</guid>
+      <description>Cada 25 de enero, la Iglesia Católica celebra el día en que San Pablo -entonces llamado Saulo- alcanzó la conversión camino a Damasco, a donde se dirigía para perseguir a los cristianos.
+Como se recuerda, camino a Damasco Saulo fue derribado del caballo por el mismo Jesús a través de una luz del cielo que brilló sobre él y sus compañeros, cegándolo por espacio de tres días.
+Durante ese tiempo, Saulo permaneció en casa de un judío llamado Judas, sin comer ni beber.</description>
+    </item>
+  </channel>
+</rss>

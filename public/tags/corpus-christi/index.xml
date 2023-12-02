@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Corpus Christi on My New Hugo Site</title>
+    <link>https://example.org/tags/corpus-christi/</link>
+    <description>Recent content in Corpus Christi on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 09 Jun 2020 14:53:50 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/corpus-christi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solemnidad del Corpus Christi</title>
+      <link>https://example.org/solemnidad-del-corpus-christi/</link>
+      <pubDate>Tue, 09 Jun 2020 14:53:50 +0000</pubDate>
+      <guid>https://example.org/solemnidad-del-corpus-christi/</guid>
+      <description>Un milagro eucarístico del siglo XIII fue el origen de la Fiesta del Corpus Christi, que la Iglesia celebra el jueves siguiente a la Solemnidad de la Santísima Trinidad; aunque en algunos países las Iglesias locales deciden trasladarla para el domingo por una cuestión pastoral.
+En esta solemnidad la Iglesia tributa a la Eucaristía un culto público y solemne de adoración, gratitud y amor, siendo la procesión del Corpus Christi una de las más importantes en toda la Iglesia Universal.</description>
+    </item>
+  </channel>
+</rss>

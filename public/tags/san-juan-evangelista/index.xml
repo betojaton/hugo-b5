@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>San Juan Evangelista on My New Hugo Site</title>
+    <link>https://example.org/tags/san-juan-evangelista/</link>
+    <description>Recent content in San Juan Evangelista on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 21 Dec 2020 21:45:58 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/san-juan-evangelista/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>San Juan Evangelista</title>
+      <link>https://example.org/san-juan-evangelista/</link>
+      <pubDate>Mon, 21 Dec 2020 21:45:58 +0000</pubDate>
+      <guid>https://example.org/san-juan-evangelista/</guid>
+      <description>Representa aquellos que estuvieron dispuestos a morir por Cristo pero no los mataron. San Juan fue el único Apóstol que se arriesgó a estar con La Virgen al pie de la cruz.
+Este apóstol tuvo la inmensa dicha de ser el discípulo más amado por Jesús. Y se ha hecho muy famoso por haber compuesto el cuarto evangelio.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nazaret on My New Hugo Site</title>
+    <link>https://example.org/tags/nazaret/</link>
+    <description>Recent content in Nazaret on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 21 Dec 2020 21:49:09 +0000</lastBuildDate>
+    <atom:link href="https://example.org/tags/nazaret/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sagrada Familia</title>
+      <link>https://example.org/sagrada-familia/</link>
+      <pubDate>Mon, 21 Dec 2020 21:49:09 +0000</pubDate>
+      <guid>https://example.org/sagrada-familia/</guid>
+      <description>Hoy se celebra la fiesta de la Sagrada Familia y la Iglesia nos invita a mirar a José, María y al Niño Jesús, quienes desde un principio tuvieron que enfrentar peligros y el exilio a Egipto, pero demostrando que siempre el amor puede más que la muerte. Ellos son reflejo de la Trinidad y modelo de toda familia.
+La fiesta de la Sagrada Familia, que se celebra dentro de la Octava de Navidad, es una celebración que motiva a profundizar en el amor familiar, examinar la propia situación del hogar y buscar soluciones que ayuden al papá, la mamá y los hijos a ser cada vez más como la Familia de Nazaret.</description>
+    </item>
+    <item>
+      <title>Fiesta de la Natividad de la Virgen María</title>
+      <link>https://example.org/fiesta-natividad-virgen-maria/</link>
+      <pubDate>Wed, 05 Aug 2020 16:17:34 +0000</pubDate>
+      <guid>https://example.org/fiesta-natividad-virgen-maria/</guid>
+      <description>La Iglesia recuerda el día del nacimiento de la Virgen María cada 8 de setiembre. El Evangelio no nos da datos del nacimiento de María, pero hay varias tradiciones. Algunas, considerando a María descendiente de David, señalan su nacimiento en Belén.
+Otra corriente griega y armenia, señala Nazareth como cuna de María. La celebración de la fiesta de la Natividad de la Santísima Virgen María, es conocida en Oriente desde el siglo VI.</description>
+    </item>
+    <item>
+      <title>San José Esposo de la Virgen María Patrono de Nuestra Arquidiócesis.</title>
+      <link>https://example.org/san-jose-esposo-de-la-virgen-maria-patrono-de-nuestra-arquidiocesis/</link>
+      <pubDate>Mon, 09 Mar 2020 20:21:24 +0000</pubDate>
+      <guid>https://example.org/san-jose-esposo-de-la-virgen-maria-patrono-de-nuestra-arquidiocesis/</guid>
+      <description>De San José únicamente sabemos los datos históricos que San Mateo y San Lucas nos narran en el Evangelio
+San Mateo narra que San José se había comprometido en ceremonia pública a casarse con la Virgen María. Pero que luego al darse cuenta de que Ella estaba esperando un hijo sin haber vivido juntos los dos, y no entendiendo aquel misterio, en vez de denunciarla como infiel, dispuso abandonarla en secreto e irse a otro pueblo a vivir.</description>
+    </item>
+  </channel>
+</rss>
