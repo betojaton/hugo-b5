@@ -4,7 +4,7 @@
 {{ end }}
 {{ range (.Paginate $pages).Pages }}
 <div class="col col-md-6 mb-4">
-    <div class="card">
+    <article class="card">
         {{ with .Params.thumbnail }}
         <img class="card-img-top w-100 d-block card-img-top" src="{{ . }}"/>
         {{ end }}
@@ -21,24 +21,24 @@
                     {{ with .Params.categories }}
                     <a href="/categories/{{ index . 0 | urlize }}">{{ index . 0 }}</a>
                     {{ end }}
-
-                    <!-- <a href="">{{ .Params.tags }}</a>    -->
+                    Tags: {{ delimit .Params.tags ", " }}
+                        | Tags: <a href="">{{ .Params.tags }}</a>
                 </h6>
             </div><!-- End: meta -->
             <p>
                 {{ if .Params.summary }}
-                {{ .Params.summary }}
-                {{ else if .Params.abstract }}
-                {{ .Params.abstract }}
-                {{ else }}
-                {{ truncate 300 .Summary }}
+                    {{ .Params.summary }}
+                        {{ else if .Params.abstract }}
+                        {{ .Params.abstract }}
+                    {{ else }}
+                    {{ truncate 300 .Summary }}
                 {{ end }}
             </p>
             <a href="{{ .Permalink }}">
                 Leer más<i class="fas fa-long-arrow-alt-right ms-1"></i>
             </a>
         </div><!-- End: card-body -->
-    </div><!-- End: card -->
+    </article><!-- End: card -->
 </div><!-- End: col-->
 {{ end }}
 

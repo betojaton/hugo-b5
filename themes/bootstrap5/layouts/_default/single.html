@@ -1,8 +1,16 @@
 {{ define "main" }}
-<div>
+<div class="container single">
   <h1 class="mx-auto">{{ .Title }}</h1>
-  <div>
+  <article>
     {{ .Content }}
-  </div>
+  </article>
+<h2>Otros Posts en la Misma Categoría:</h2>
+<ul>
+  {{ $currentCategory := .Params.categories | first }}
+  {{ $relatedPosts := where .Site.RegularPages "Params.categories" "intersect" $currentCategory }}
+  {{ range $relatedPosts }}
+  <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+  {{ end }}
+</ul>
 </div>
 {{ end }}
