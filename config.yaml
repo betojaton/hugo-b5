@@ -26,7 +26,6 @@ params:
   logoName: María de la Santa Fe
   numberOfTagsShown: 20
 
-
 taxonomies:
   category: categories
   tag: tags

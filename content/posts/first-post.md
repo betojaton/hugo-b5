@@ -1,11 +1,10 @@
 ---
-title: "First Post"
+title: First Post
 date: 2023-11-30T17:24:00-03:00
-draft: true
 thumbnail: /images/post-invita.png
-tags:
-  - etiqueta01
-  - etiqueta02
+url: /primer-post
+tags: [etiqueta01]
+categories: [categoria1]
 destacado: true
 ---
 
